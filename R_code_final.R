@@ -1,5 +1,4 @@
 # ============================== CODE METADATA =============================== #
-# AUTHOR: Fernando Colchero
 # DATE CREATED: 2022-03-31
 # ADAPTATION: Catalina Manduta
 # DESCRIPTION:
